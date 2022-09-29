@@ -1,0 +1,75 @@
+body {
+  background-image: url("../Assets/img/img1.jpg");
+  background-repeat: no-repeat;
+  background-size: 105% auto; 
+}
+  #Login-Box{
+    width: 60%;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 5%;
+    text-align: center;
+    background: #7077bb90 ;
+    padding: 20px 50px;
+  }
+  
+  #Login-Box h1{
+    color: rgb(240, 227, 227);
+  }
+  
+  #Login-Box .Form .Item{
+    margin-top: 15px;
+  }
+  
+
+  #Login-Box .Form .Item input{
+    width: 180px;
+    font-size: 18px;
+    border: 0;
+    border-bottom: 2px solid rgb(179, 55, 55);
+    padding: 5px 10px;
+    background: #c0b5b500;
+
+  }
+  #Login-Box button{
+    margin-top: 15px;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 400;
+    color: rgb(255, 218, 218);
+    background-color: orange;
+    border: 0;
+    border-radius: 15px;
+    cursor:pointer;
+
+    /* background: #1abc9c; */
+    /* background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%); */
+    /*background-image: linear-gradient( 109.6deg,  rgba(45,116,213,1) 11.2%, rgba(121,137,212,1) 91.2% );*/
+  }
+
+  #Login-Box .Redireccionar p .Link{
+    color: #fff;
+  }
+
+  #Login-Box .Redireccionar p{
+    color: rgb(241, 216, 216);
+  }
+
+  #Login-Box .Recuperar-Item p{
+    color: #fff;
+  }
+
+  #Login-Box .Cuentas p{
+    color: #fff;
+  }
+
+  #Login-Box .Recuperar-Item p .Href-Item{
+    color: #fff;
+  }
+    
+
+  .imgGoogle{
+    height:30px; 
+    width:30px;
+}
